@@ -6,9 +6,10 @@ Equipe: A
 (SM)
 Scrum Master: Saimor Raduan Araujo Souza
 
-	Desenvolvedor 1:
-	Habilidades:
-	Experiência:
+	Desenvolvedor 1: Murilo Fuza da Cunha.
+	Habilidades: Estrutura de API, desenvolvimento node, Modelagem de banco de dados, resolução de 
+		problemas, github actions, Amazon AWS.
+	Experiência: Um ano e meio projeto DERUN e dois anos projeto Ictiobiometria.
 
 	Desenvolvedor 2:
 	Habilidades:
