@@ -17,6 +17,7 @@ Scrum Master: Saimor Raduan Araujo Souza
 	Experiência: 3 anos e 6 meses como Desenvolvedor na Coordenadoria de Desenvolvimento de Sistemas CDSis/DTI
 		na Universidade Federal de Rondônia.
 
-	Desenvolvedor 3:
-	Habilidades:
-	Experiência:
+	Desenvolvedor 3:João Vitor Barbosa Lima
+	Habilidades: Desenvolvimento frontend,Modelagem de Banco de Dados, Desenvolvimento React, 
+		Desenvolvimento de sofware para dispositivos móveis.
+	Experiência: quatro meses no projeto DERUN e dois anos projeto Ictiobiometria.
