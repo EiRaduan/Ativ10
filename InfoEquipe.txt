@@ -11,9 +11,11 @@ Scrum Master: Saimor Raduan Araujo Souza
 		problemas, github actions, Amazon AWS.
 	Experiência: Um ano e meio projeto DERUN e dois anos projeto Ictiobiometria.
 
-	Desenvolvedor 2:
-	Habilidades:
-	Experiência:
+	Desenvolvedor 2: Gustavo Cavalcante Tadei
+	Habilidades: Desenvolvimento de Sistemas Web Java com JSF, Spring Boot, Spring Web MVC, Modelagem de Banco de Dados, 
+		SQL, PostgreSQL, Desenvolvimento de API Java com Spring Boot, Administração de Servidores Linux, Containers Docker.
+	Experiência: 3 anos e 6 meses como Desenvolvedor na Coordenadoria de Desenvolvimento de Sistemas CDSis/DTI
+		na Universidade Federal de Rondônia.
 
 	Desenvolvedor 3:
 	Habilidades:
